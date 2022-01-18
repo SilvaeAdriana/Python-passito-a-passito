@@ -1,5 +1,5 @@
 # Python first and other steps
- Listagem de meu processo de aprendizagem de Py.
+ Listagem de meu processo de aprendizagem de Python.
 
 
 
